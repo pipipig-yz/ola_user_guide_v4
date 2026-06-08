@@ -15,8 +15,9 @@ sidebar_position: 1
 
 - [1. Introduction](/en/01-preface-en)
 - [2. AskOLA AI Assistant](/en/askola/)
-- [3. Call Recordings & Analysis](/en/channel-en)
-- [4. Admin & Manager View](/en/admin-en)
+{/* Temporarily hidden (files kept at docs/en/channel.md, admin.md and excluded in docusaurus.config.js). Uncomment the two lines below to re-enable */}
+{/* - [3. Call Recordings & Analysis](/en/channel-en) */}
+{/* - [4. Admin & Manager View](/en/admin-en) */}
 - [5. FAQ & Troubleshooting](/en/help-en)
 
 ---

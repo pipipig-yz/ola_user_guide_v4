@@ -23,8 +23,9 @@ const sidebars = {
         { type: 'doc', id: 'cn/askola/create', label: '2.3 录入新信息' },
       ],
     },
-    { type: 'doc', id: 'cn/channel', label: '3. 通话录音与分析' },
-    { type: 'doc', id: 'cn/admin', label: '4. 管理员与老板视角' },
+    // 暂时隐藏，保留文件，待启用时取消注释
+    // { type: 'doc', id: 'cn/channel', label: '3. 通话录音与分析' },
+    // { type: 'doc', id: 'cn/admin', label: '4. 管理员与老板视角' },
     { type: 'doc', id: 'cn/help', label: '5. 故障与求助' },
   ],
 
@@ -49,8 +50,9 @@ const sidebars = {
         { type: 'doc', id: 'en/askola/create-en', label: '2.3 Creating New Records' },
       ],
     },
-    { type: 'doc', id: 'en/channel-en', label: '3. Call Recordings & Analysis' },
-    { type: 'doc', id: 'en/admin-en', label: '4. Admin & Manager View' },
+    // Temporarily hidden, files kept — uncomment to re-enable
+    // { type: 'doc', id: 'en/channel-en', label: '3. Call Recordings & Analysis' },
+    // { type: 'doc', id: 'en/admin-en', label: '4. Admin & Manager View' },
     { type: 'doc', id: 'en/help-en', label: '5. FAQ & Troubleshooting' },
   ],
 };

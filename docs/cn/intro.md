@@ -15,8 +15,9 @@ sidebar_position: 1
 
 - [1. 前言](/cn/01-preface)
 - [2. 智能助手 AskOLA](/cn/askola/)
-- [3. 通话录音与分析](/cn/channel)
-- [4. 管理员与老板视角](/cn/admin)
+{/* 暂时隐藏（文件保留于 docs/cn/channel.md、admin.md，并在 docusaurus.config.js 中 exclude）。启用时取消下面两行注释 */}
+{/* - [3. 通话录音与分析](/cn/channel) */}
+{/* - [4. 管理员与老板视角](/cn/admin) */}
 - [5. 故障与求助](/cn/help)
 
 ---

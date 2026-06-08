@@ -32,6 +32,8 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
+          // 暂时隐藏的章节：文件保留，但不参与构建/不在网页展示。待启用时删除以下两行。
+          exclude: ['**/channel.md', '**/admin.md'],
         },
         blog: false,
         theme: {
