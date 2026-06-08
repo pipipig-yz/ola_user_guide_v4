@@ -50,7 +50,6 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'OLA 使用指南 v4',
         items: [
           {
             type: 'docSidebar',
