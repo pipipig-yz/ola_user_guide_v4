@@ -26,6 +26,6 @@ sidebar_position: 1
 
 | 字段 | 值 |
 |------|----|
-| 网址 | http://localhost:3000 |
+| 网址 | https://app.olatech.ai/|
 | 邮箱 | demo@ola.ai |
 | 密码 | OLADemo@2026 |

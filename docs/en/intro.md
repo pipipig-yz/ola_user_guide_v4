@@ -26,6 +26,6 @@ sidebar_position: 1
 
 | Field | Value |
 |-------|-------|
-| URL | http://localhost:3000 |
+| URL | https://app.olatech.ai/ |
 | Email | demo@ola.ai |
 | Password | OLADemo@2026 |
